@@ -1,0 +1,26 @@
+01.git --version (Check Git version check and installation check)
+02. git help config (Git help Description)
+03. cd Desktop/ (Desktop Directory te jawa)
+04. mkdir gitDemo (Directory create).
+05. git init (init git Directory).
+06. touch first.txt (file creat instrgitgit uction).touch
+07. git status (git ar vitore kono change hoise kina ta investigation)
+08. git add first.txt/add . (all tract) (file ta tract kora/Stage kora)
+09. git commit (git ke commit / save kora)
+10. git config --global user.email "marufhasan136@gmail.com"(mail config kora)
+11.git config --global user.name "marufhasanmitul"(user config kora)
+12. i (keybord i click creat insert some comment this change it commit)
+13.ESC Button click and : x( insert remove and enter complete work)
+14.git log (git commit comple status).
+15.clear (clear all page write status).
+16. ls (my directory folder name list).
+17.git log --oneline (ki ki commit hoise dekar jonno)
+18.git show (ar maddome ki ki show ta amra dekte pari) 
+19. git commit -m "new line add"( comment and save).
+20.git diff --stage 
+21.git Clone
+22.git branch(Kon brach ase test)
+23.git branch namebranch (creat new branch)
+24.git checkout namebranch
+
+
