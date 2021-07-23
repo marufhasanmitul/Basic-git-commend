@@ -22,5 +22,5 @@
 22.git branch(Kon brach ase test)
 23.git branch namebranch (creat new branch)
 24.git checkout namebranch
-
+25.$ git push (Git push)
 
