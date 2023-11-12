@@ -24,3 +24,7 @@
 24.git checkout namebranch
 25.$ git push (Git push)
 
+Delete Commet and Update
+git reset --hard HEAD^
+git push origin -f
+
